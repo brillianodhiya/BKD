@@ -835,7 +835,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .footer-main .block ul.social-links-footer li a:hover {
-  background: #ff6600;
+  background: #008cff;
 }
 
 .footer-main .block ul.social-links-footer li a:hover i {
@@ -852,7 +852,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .subfooter .copyright-text p a {
-  color: #ff6600;
+  color: #008cff;
 }
 
 @media (max-width: 767px) {
@@ -866,7 +866,7 @@ select.form-control:not([size]):not([multiple]) {
   height: 45px;
   width: 45px;
   text-align: center;
-  background: #ff6600;
+  background: #008cff;
   float: right;
 }
 
